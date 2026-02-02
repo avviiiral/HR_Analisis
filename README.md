@@ -11,7 +11,6 @@ This repository contains a Power BI dashboard designed to analyze and visualize 
 ## 📂 Project Structure
 ```
 data/           # Dataset files
-screenshots/    # Dashboard preview images
 dashboard.pbix  # Power BI file
 README.md
 ```
